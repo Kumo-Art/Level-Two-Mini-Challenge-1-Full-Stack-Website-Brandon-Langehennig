@@ -35,6 +35,7 @@ const additionFetch = async (numberOne,numberTwo) => {
 }
 
 
+
 const greetFetch = async (nameInput) => {
     const res = await fetch(`${baseUrl}/hello/greeting/${nameInput}`);
     const data = await res.json();
