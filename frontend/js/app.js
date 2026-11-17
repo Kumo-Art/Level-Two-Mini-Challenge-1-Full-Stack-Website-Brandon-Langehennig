@@ -73,8 +73,11 @@ compareForm.addEventListener("submit", async (event) => {
     const output = await compareFetch(compareOne.value,compareTwo.value);
     
     if (output.compOne > output.compTwo) {
-        // start here if statement
+        compareResult.textContent = `${output.compOne} is greater than ${output.compTwo}`;
+    } else if (output.compOne < output.compTwo) {
+        compareResult.textContent = `${output.compOne} is less than ${output.compTwo}`;
+    } else {
+        compareResult.textContent = `${output.compOne} is equal to ${output.compTwo}`;
     }
-    
-})
+});
 // --------- run on load -------

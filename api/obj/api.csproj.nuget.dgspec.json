@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brand\\OneDrive\\Desktop\\CSA-Level-Two\\Homework\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj": {}
+    "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brand\\OneDrive\\Desktop\\CSA-Level-Two\\Homework\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj": {
+    "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA-Level-Two\\Homework\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj",
+        "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA-Level-Two\\Homework\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj",
+        "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\api.csproj",
         "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA-Level-Two\\Homework\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\obj\\",
+        "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config"
