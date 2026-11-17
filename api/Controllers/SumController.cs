@@ -10,6 +10,12 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class SumController : ControllerBase
     {
-        
+        [HttpGet("addition/{numOne}/{numTwo}")]
+
+        public IActionResult Addition(int numOne,int numTwo)
+        {
+            int sum = numOne + numTwo;
+            return Ok (new {numOne,numTwo, Result = sum});
+        }
     }
 }

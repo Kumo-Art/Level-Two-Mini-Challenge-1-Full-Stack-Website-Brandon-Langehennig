@@ -10,6 +10,12 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class ComparisonController : ControllerBase
     {
-        
+        [HttpGet("compare/{compOne}/{compTwo}")]
+
+        public IActionResult Comparison(int compOne, int compTwo)
+        {
+            bool compare = compOne < compTwo;
+            return Ok (new {compOne,compTwo, Result = compare});
+        }
     }
 }

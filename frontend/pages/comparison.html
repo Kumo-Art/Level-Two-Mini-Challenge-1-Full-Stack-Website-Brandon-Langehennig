@@ -14,14 +14,17 @@
         <a href="./sum.html">Add Numbers</a>
         <a href="./comparison.html">Greater Than or Less Than</a>
      </nav>
-    
+    <section>
      <h1>Enter two numbers to find out if greater or less than</h1>
+     <form id="compare-form">
+        <input type="number" placeholder="Enter first number..." id="compare-one">
+    <input type="number" placeholder="Enter second number..." id="compare-two">
+    <button id="compare-button">Compare</button>
+     </form>
+    </section>
+    
 
-    <input type="text" placeholder="Enter first number...">
-    <input type="text" placeholder="Enter second number...">
-    <button>Compare</button>
-
-    <p>Result...</p>
+    <p id="compare-result">Result...</p>
 
     </main>
     <script src="/frontend/js/app.js"></script>
