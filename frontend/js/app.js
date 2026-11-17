@@ -25,6 +25,7 @@ const compareButton = document.getElementById("compare-button");
 const compareForm = document.getElementById("compare-form");
 const compareResult = document.getElementById("compare-result");
 
+
 // ------- functions ---------
 
 const additionFetch = async (numberOne,numberTwo) => {
