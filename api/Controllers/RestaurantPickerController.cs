@@ -7,7 +7,7 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class RestaurantPickerController : ControllerBase
     {
-        [HttpGet("restaurantpicker")]
+        [HttpGet("picker")]
         public IActionResult RestaurantPicker()
         {
            

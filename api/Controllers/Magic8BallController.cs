@@ -7,7 +7,7 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class Magic8BallController : ControllerBase
     {
-        [HttpGet("magic8ball")]
+        [HttpGet("magic")]
         public IActionResult Magic8Ball()
         {
             string[] responses = {
