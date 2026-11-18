@@ -1,7 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using api.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace api.Controllers
@@ -10,11 +7,20 @@ namespace api.Controllers
     [Route("api/[controller]")]
     public class HelloController : ControllerBase
     {
+         private readonly IHelloServices _helloServices;
+
+        public HelloController(IHelloServices helloServices)
+        {
+            _helloServices = helloServices;
+        }
+
+
         [HttpGet("greeting/{name}")]
 
         public IActionResult Greeting(string name)
         {
-            return Ok (new{ Message = "Hello " + name + " nice to meet you."});
+            string message = _helloServices.Greeting(name);
+            return Ok(new { Message = message });
         }
     }
 }
