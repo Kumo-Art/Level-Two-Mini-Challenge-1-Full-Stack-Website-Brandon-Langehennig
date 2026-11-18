@@ -66,3 +66,15 @@ C:\Users\brand\OneDrive\Desktop\Repositories\Level-Two-Mini-Challenge-1-Full-Sta
 C:\Users\brand\OneDrive\Desktop\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.pdb
 C:\Users\brand\OneDrive\Desktop\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\ref\api.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.csproj.AssemblyReference.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.AssemblyInfoInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.AssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.csproj.CoreCompileInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\refint\api.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Level-Two-Mini-Challenge-1-Full-Stack-Website-Brandon-Langehennig\api\obj\Debug\net10.0\api.pdb
